@@ -1,6 +1,6 @@
 ﻿Database (Oracle) — Project README
 
-**Notă:** except the .sql files, all the other ones are written completely in Romanian due to the assignment rules
+**Note:** except the .sql files, all the other ones are written completely in Romanian due to the assignment rules
 
 **Project File**
 - **Project.pdf:** The Project.pdf file contains the entire project, explained step-by-step, in Romanian. Romanian speakers can read the full explanation and follow the implementation in that document. See [Project.pdf](Project.pdf).
@@ -22,8 +22,8 @@ The table names are in Romanian; here are their translations (format: [RO] = [EN
 - FURNIZOR = SUPPLIER
 
 **Diagrams and Details**
-- Refer primarily to [ERD.pdf](ERD.pdf) for the entity-relationship diagram.
-- The [conceptual_diagram.pdf](conceptual_diagram.pdf) contains all column names in Romanian (39 columns, excluding primary and foreign keys).
+- Refer primarily to [ERD.png](ERD.png) for the entity-relationship diagram.
+- The [conceptual_diagram.png](conceptual_diagram.png) contains all column names in Romanian (39 columns, excluding primary and foreign keys).
 - SQL scripts (DDL and data insertion) are provided in create_insert.sql and examples.sql.
 
 **Requirements**
